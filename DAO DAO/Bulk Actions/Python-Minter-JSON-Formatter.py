@@ -47,7 +47,7 @@ for address in addresses:
             "mintMsg": {
                 "owner": address,
                 "token_id": token_id,
-                "token_uri": "ipfs://bafyreih2m2gwnumiji4whhikncw4ahhabcf53cjbb5yi7tv2qapzmnhfqe/metadata.json",
+                "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json",
             },
         },
     }

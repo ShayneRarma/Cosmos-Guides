@@ -1,0 +1,280 @@
+{
+  "actions": [
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "juno1glpd2vxa8nghdqucgfupz42k6kje0sdmggs7mvlnhu5k9lelrm8stq83ry",
+        "mintMsg": {
+          "owner": "juno10a29hu7chl55ar4wsyjueqxc7smudpvrs3rjam",
+          "token_id": "0001",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "juno1glpd2vxa8nghdqucgfupz42k6kje0sdmggs7mvlnhu5k9lelrm8stq83ry",
+        "mintMsg": {
+          "owner": "juno14vgvwqadrluenyepcn7lhv6e8lq507rare6s3a",
+          "token_id": "0002",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "juno1glpd2vxa8nghdqucgfupz42k6kje0sdmggs7mvlnhu5k9lelrm8stq83ry",
+        "mintMsg": {
+          "owner": "juno18qw9ydpewh405w4lvmuhlg9gtaep79vy2gmtr2",
+          "token_id": "0003",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "juno1glpd2vxa8nghdqucgfupz42k6kje0sdmggs7mvlnhu5k9lelrm8stq83ry",
+        "mintMsg": {
+          "owner": "juno1eck27qefttt5twxsg38gsr0q0hr4e3vvyxm2q4",
+          "token_id": "0004",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "juno1glpd2vxa8nghdqucgfupz42k6kje0sdmggs7mvlnhu5k9lelrm8stq83ry",
+        "mintMsg": {
+          "owner": "juno1v5ft27rre0m3th7etfvm5c8vhw462vh6uystkh",
+          "token_id": "0005",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "juno1glpd2vxa8nghdqucgfupz42k6kje0sdmggs7mvlnhu5k9lelrm8stq83ry",
+        "mintMsg": {
+          "owner": "juno1x0geq60tewsqhcf53u7e9gw68y95ud5xe428h0",
+          "token_id": "0006",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "juno1glpd2vxa8nghdqucgfupz42k6kje0sdmggs7mvlnhu5k9lelrm8stq83ry",
+        "mintMsg": {
+          "owner": "juno1xdulfs7wvka5vuntuzz4kmrtds3cdtfvmn2y6d",
+          "token_id": "0007",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "juno1glpd2vxa8nghdqucgfupz42k6kje0sdmggs7mvlnhu5k9lelrm8stq83ry",
+        "mintMsg": {
+          "owner": "juno137p2qrs3qw00c28679pwu4a76md48q8zwsq9qg",
+          "token_id": "0008",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "juno1glpd2vxa8nghdqucgfupz42k6kje0sdmggs7mvlnhu5k9lelrm8stq83ry",
+        "mintMsg": {
+          "owner": "juno1fn0h75ee5rudwfnuc47nrkqes5pftp373xvrgj",
+          "token_id": "0009",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "juno1glpd2vxa8nghdqucgfupz42k6kje0sdmggs7mvlnhu5k9lelrm8stq83ry",
+        "mintMsg": {
+          "owner": "juno1hmda69ykt8rzsrxanrxm2r837edln3pjev0dpw",
+          "token_id": "0010",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "juno1glpd2vxa8nghdqucgfupz42k6kje0sdmggs7mvlnhu5k9lelrm8stq83ry",
+        "mintMsg": {
+          "owner": "juno1n5yr7uxk9eza6m29ew7zvrc0zkd5nvwemax73f",
+          "token_id": "0011",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "juno1glpd2vxa8nghdqucgfupz42k6kje0sdmggs7mvlnhu5k9lelrm8stq83ry",
+        "mintMsg": {
+          "owner": "juno1ssfrydv7qs6qfnx28q7kmkuvuyea724l3qg2xl",
+          "token_id": "0012",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "juno1glpd2vxa8nghdqucgfupz42k6kje0sdmggs7mvlnhu5k9lelrm8stq83ry",
+        "mintMsg": {
+          "owner": "juno1xuwl7x8htyl26t7pe3l0x6auj3j9jwd25ywx2e",
+          "token_id": "0013",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "juno1glpd2vxa8nghdqucgfupz42k6kje0sdmggs7mvlnhu5k9lelrm8stq83ry",
+        "mintMsg": {
+          "owner": "juno10q4dtmakqcghyxx7cdku92m7ws6fsj3ttjzhwa",
+          "token_id": "0014",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "juno1glpd2vxa8nghdqucgfupz42k6kje0sdmggs7mvlnhu5k9lelrm8stq83ry",
+        "mintMsg": {
+          "owner": "juno10ujj0xx8fcqwsnrfkprjnhvu4g2x230uvvj8u6",
+          "token_id": "0015",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "juno1glpd2vxa8nghdqucgfupz42k6kje0sdmggs7mvlnhu5k9lelrm8stq83ry",
+        "mintMsg": {
+          "owner": "juno160wdvp32nwrj8nqvdyvgn84vq8mvd8dvkca99n",
+          "token_id": "0016",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "juno1glpd2vxa8nghdqucgfupz42k6kje0sdmggs7mvlnhu5k9lelrm8stq83ry",
+        "mintMsg": {
+          "owner": "juno1663yhw0rre70egdwez3sw2e0ery94vgnn5elza",
+          "token_id": "0017",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "juno1glpd2vxa8nghdqucgfupz42k6kje0sdmggs7mvlnhu5k9lelrm8stq83ry",
+        "mintMsg": {
+          "owner": "juno16ja5akn8pmcc44z09ahtd06zqd8lwrmlfjvtmf",
+          "token_id": "0018",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "juno1glpd2vxa8nghdqucgfupz42k6kje0sdmggs7mvlnhu5k9lelrm8stq83ry",
+        "mintMsg": {
+          "owner": "juno18mmruat2mwt3uk6xdu95ayf0wpuwzuhx3jtkhg",
+          "token_id": "0019",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "juno1glpd2vxa8nghdqucgfupz42k6kje0sdmggs7mvlnhu5k9lelrm8stq83ry",
+        "mintMsg": {
+          "owner": "juno1932p8lwv65z7wyh2jnw7sqshuldhynm6zrqrs6",
+          "token_id": "0020",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "juno1glpd2vxa8nghdqucgfupz42k6kje0sdmggs7mvlnhu5k9lelrm8stq83ry",
+        "mintMsg": {
+          "owner": "juno1973qhhswmsf0y99h88t40v7ecgzqhs6rf8g473",
+          "token_id": "0021",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "juno1glpd2vxa8nghdqucgfupz42k6kje0sdmggs7mvlnhu5k9lelrm8stq83ry",
+        "mintMsg": {
+          "owner": "juno19ckvp2666xc5aaevrmufppyzjtggfhguzkh4lj",
+          "token_id": "0022",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "juno1glpd2vxa8nghdqucgfupz42k6kje0sdmggs7mvlnhu5k9lelrm8stq83ry",
+        "mintMsg": {
+          "owner": "juno1e09gqxzfegmtrjug3epna589umuylzvh6qsgwf",
+          "token_id": "0023",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    }
+  ]
+}
