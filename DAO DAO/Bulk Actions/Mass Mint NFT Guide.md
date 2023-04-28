@@ -22,7 +22,7 @@ Step 5: Select Mint NFT
 In the 'Action' list, choose the 'Mint NFT' option.
 ![image](https://user-images.githubusercontent.com/34254288/235110346-5ab141bc-f06f-42dd-9f14-21472fd02213.png)
 
-Step 6: Select Collection, provide Name, description, and upload image
+Step 6: Select a collection, provide Name, description, and upload image
 Enter or select the NFT Collection address, enter the name and description for the NFT you want to mint. Upload an image that represents the NFT by clicking on the 'Choose File' button and selecting your image file.
 ![image](https://user-images.githubusercontent.com/34254288/235110386-88f52020-7463-4617-a0ac-3a50157de563.png)
 ![image](https://user-images.githubusercontent.com/34254288/235110479-8ff0f4f3-0171-48e2-a85c-f1d996eee4aa.png)
@@ -42,9 +42,11 @@ Step 10: Access the bulk mint script
 Go to the GitHub repository "https://github.com/ShayneRarma/Cosmos-Guides/tree/main/DAO%20DAO/Bulk%20Actions". Open the relevant file type for your operating system, either PowerShell or Python.
 ![image](https://user-images.githubusercontent.com/34254288/235110724-a7040b4d-28c3-45a9-be1b-27ff8568d8ec.png)
 
-Step 11: Update the list of addresses and contract information
-Update the list of addresses in the 'addresses' array. Replace the "contract_address" and "token_uri" with the values you obtained from your DAO and NFT preview.
+Step 11: Update the list of addresses and collection information
+Update the list of addresses in the 'addresses' array.
 ![image](https://user-images.githubusercontent.com/34254288/235110764-50ea653a-1bc0-484f-b561-4bc9ff7646f8.png)
+
+Replace the "collection_address" and "token_uri" with the values you obtained from your DAO and NFT preview.
 ![image](https://user-images.githubusercontent.com/34254288/235110819-8b5d81db-1722-4501-ab8e-1ea9af5033df.png)
 
 Step 12: Run the script
