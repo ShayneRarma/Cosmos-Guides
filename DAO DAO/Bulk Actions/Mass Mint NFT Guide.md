@@ -1,71 +1,88 @@
-Title: Bulk Mint NFTs in DAO DAO: A Step-by-Step Guide
+**Title: Bulk Mint NFTs in DAO DAO: A Step-by-Step Guide**
 
 Introduction:
 In this guide, we will walk you through the process of bulk minting NFTs in DAO DAO, including preparing your NFT, obtaining the necessary information, executing the custom bulk mint script to generate the JSON file, and loading the JSON into the DAO DAO Bulk Action. Follow these steps to mint multiple NFTs at once:
 
-Step 1: Go to your DAO
+**Step 1: Go to your DAO**\
 Navigate to the DAO DAO platform and connect account. Access your DAO.
 
-Step 2: Create a new proposal
+**Step 2: Create a new proposal**\
 Click on the 'New Proposal' button to open a new proposal creation interface.
+
 ![image](https://user-images.githubusercontent.com/34254288/235110213-f7bb9578-abfe-4b94-aef2-227593276a71.png)
 
-Step 3: Provide title and description
+**Step 3: Provide title and description**\
 Enter a descriptive title and a brief explanation for your proposal to mint NFTs in bulk.
+
 ![image](https://user-images.githubusercontent.com/34254288/235110270-049b1c57-a4cd-4fa1-9524-7ffaf0d1c2b7.png)
 
-Step 4: Select NFTs category
+**Step 4: Select NFTs category**\
 Click on the 'Add an action' button and in the Category menu and select the 'NFTs' option.
+
 ![image](https://user-images.githubusercontent.com/34254288/235110308-5ec75a75-0b0e-4fab-93a2-29f36d574053.png)
 
-Step 5: Select Mint NFT
+**Step 5: Select Mint NFT**\
 In the 'Action' list, choose the 'Mint NFT' option.
+
 ![image](https://user-images.githubusercontent.com/34254288/235110346-5ab141bc-f06f-42dd-9f14-21472fd02213.png)
 
-Step 6: Select a collection, provide Name, description, and upload image
+**Step 6: Select a collection, provide Name, description, and upload image**\
 Enter or select the NFT Collection address, enter the name and description for the NFT you want to mint. Upload an image that represents the NFT by clicking on the 'Choose File' button and selecting your image file.
+
 ![image](https://user-images.githubusercontent.com/34254288/235110386-88f52020-7463-4617-a0ac-3a50157de563.png)
+
 ![image](https://user-images.githubusercontent.com/34254288/235110479-8ff0f4f3-0171-48e2-a85c-f1d996eee4aa.png)
 
-Step 7: Click "Upload"
+**Step 7: Click "Upload"**\
 After providing all the necessary information and uploading the image, click on the 'Upload' button. The platform will generate the token_uri and contract_address for your NFT.
+
 ![image](https://user-images.githubusercontent.com/34254288/235110597-b0a8af38-2219-47be-b825-730f6a7f74a7.png)
 
-Step 8: Select "Preview" at the bottom
+**Step 8: Select "Preview" at the bottom**\
 Review your proposal by clicking on the 'Preview' button at the bottom of the page. Ensure that all the details are accurate and reflect your intended tasks.
+
 ![image](https://user-images.githubusercontent.com/34254288/235110650-69cc8846-dbad-4868-be81-3697ec1a87c3.png)
 
-Step 9: Retrieve token_uri and contract_address
+**Step 9: Retrieve token_uri and contract_address**\
 For the bulk mint process, you will need the token_uri and contract_address. Copy these values, as we'll use them in our bulk mint script.
 
-Step 10: Access the bulk mint script
+**Step 10: Access the bulk mint script**\
 Go to the GitHub repository "https://github.com/ShayneRarma/Cosmos-Guides/tree/main/DAO%20DAO/Bulk%20Actions". Open the relevant file type for your operating system, either PowerShell or Python.
+
 ![image](https://user-images.githubusercontent.com/34254288/235110724-a7040b4d-28c3-45a9-be1b-27ff8568d8ec.png)
 
-Step 11: Update the list of addresses and collection information
+**Step 11: Update the list of addresses and collection information**\
 Update the list of addresses in the 'addresses' array.
+
 ![image](https://user-images.githubusercontent.com/34254288/235110764-50ea653a-1bc0-484f-b561-4bc9ff7646f8.png)
 
-Replace the "collection_address" and "token_uri" with the values you obtained from your DAO and NFT preview.
+Replace the "collection_address" and "token_uri" with the values you obtained from your DAO and NFT preview.\
 ![image](https://user-images.githubusercontent.com/34254288/235110819-8b5d81db-1722-4501-ab8e-1ea9af5033df.png)
 
-Step 12: Run the script
+**Step 12: Run the script**\
 Execute the bulk mint script by running it in your command line or terminal.
+
 ![image](https://user-images.githubusercontent.com/34254288/235110864-b5984f42-0610-41a6-a362-cecf43fd3c0f.png)
 
-Step 13: Go back to your DAO and add the "Advanced" action
+**Step 13: Go back to your DAO and add the "Advanced" action**\
 Return to your DAO, and in the proposal creation interface, click on the 'Action' dropdown menu and select the "Advanced" option.
+
 ![image](https://user-images.githubusercontent.com/34254288/235110921-8e1c5c89-91bc-47c6-8e54-d870bf79b9e8.png)
 
-Step 14: Select Bulk Action
+**Step 14: Select Bulk Action**\
 Click on the 'Bulk Import Action' button.
+
 ![image](https://user-images.githubusercontent.com/34254288/235110940-62188c3a-9b02-4f25-b495-c8214342aa26.png)
 
-Step 15: Choose the "MassMinter" JSON file
+**Step 15: Choose the "MassMinter" JSON file**\
 Locate and select the "MassMinter" JSON file generated by the script you executed earlier.
 
-Step 16: Review your mint NFT actions
+**Step 16: Review your mint NFT actions**\
 Review the list of mint NFT actions displayed on the screen to ensure that they are accurate and match your intended tasks. Make any necessary changes or corrections before proceeding.
+
 ![image](https://user-images.githubusercontent.com/34254288/235111120-65ba088b-27fc-44bc-93a1-48ce29133d0b.png)
 
-Step 17: Submit proposal
+**Step 17: Submit proposal**\
+Approve the transaction to submit the proposal.
+
+**Congratulations, you're done!**
