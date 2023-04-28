@@ -1,0 +1,280 @@
+{
+  "actions": [
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "REDACTED_ADDRESS",
+        "mintMsg": {
+          "owner": "REDACTED_ADDRESS",
+          "token_id": "0001",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "REDACTED_ADDRESS",
+        "mintMsg": {
+          "owner": "REDACTED_ADDRESS",
+          "token_id": "0002",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "REDACTED_ADDRESS",
+        "mintMsg": {
+          "owner": "REDACTED_ADDRESS",
+          "token_id": "0003",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "REDACTED_ADDRESS",
+        "mintMsg": {
+          "owner": "REDACTED_ADDRESS",
+          "token_id": "0004",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "REDACTED_ADDRESS",
+        "mintMsg": {
+          "owner": "REDACTED_ADDRESS",
+          "token_id": "0005",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "REDACTED_ADDRESS",
+        "mintMsg": {
+          "owner": "REDACTED_ADDRESS",
+          "token_id": "0006",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "REDACTED_ADDRESS",
+        "mintMsg": {
+          "owner": "REDACTED_ADDRESS",
+          "token_id": "0007",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "REDACTED_ADDRESS",
+        "mintMsg": {
+          "owner": "REDACTED_ADDRESS",
+          "token_id": "0008",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "REDACTED_ADDRESS",
+        "mintMsg": {
+          "owner": "REDACTED_ADDRESS",
+          "token_id": "0009",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "REDACTED_ADDRESS",
+        "mintMsg": {
+          "owner": "REDACTED_ADDRESS",
+          "token_id": "0010",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "REDACTED_ADDRESS",
+        "mintMsg": {
+          "owner": "REDACTED_ADDRESS",
+          "token_id": "0011",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "REDACTED_ADDRESS",
+        "mintMsg": {
+          "owner": "REDACTED_ADDRESS",
+          "token_id": "0012",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "REDACTED_ADDRESS",
+        "mintMsg": {
+          "owner": "REDACTED_ADDRESS",
+          "token_id": "0013",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "REDACTED_ADDRESS",
+        "mintMsg": {
+          "owner": "REDACTED_ADDRESS",
+          "token_id": "0014",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "REDACTED_ADDRESS",
+        "mintMsg": {
+          "owner": "REDACTED_ADDRESS",
+          "token_id": "0015",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "REDACTED_ADDRESS",
+        "mintMsg": {
+          "owner": "REDACTED_ADDRESS",
+          "token_id": "0016",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "REDACTED_ADDRESS",
+        "mintMsg": {
+          "owner": "REDACTED_ADDRESS",
+          "token_id": "0017",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "REDACTED_ADDRESS",
+        "mintMsg": {
+          "owner": "REDACTED_ADDRESS",
+          "token_id": "0018",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "REDACTED_ADDRESS",
+        "mintMsg": {
+          "owner": "REDACTED_ADDRESS",
+          "token_id": "0019",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "REDACTED_ADDRESS",
+        "mintMsg": {
+          "owner": "REDACTED_ADDRESS",
+          "token_id": "0020",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "REDACTED_ADDRESS",
+        "mintMsg": {
+          "owner": "REDACTED_ADDRESS",
+          "token_id": "0021",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "REDACTED_ADDRESS",
+        "mintMsg": {
+          "owner": "REDACTED_ADDRESS",
+          "token_id": "0022",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    },
+    {
+      "key": "mintNft",
+      "data": {
+        "contractChosen": true,
+        "collectionAddress": "REDACTED_ADDRESS",
+        "mintMsg": {
+          "owner": "REDACTED_ADDRESS",
+          "token_id": "0023",
+          "token_uri": "ipfs://bafyreiaajvvhqhwfekhqltnzqlt2xjk3jfxtexzewbkl5it7jghf3zztqm/metadata.json"
+        }
+      }
+    }
+  ]
+}
