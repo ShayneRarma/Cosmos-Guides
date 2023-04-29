@@ -8,7 +8,7 @@ Navigate to the DAO DAO platform and connect your wallet.
 
 
 **Step 2: Create a new proposal**\
-Click on the 'Create Proposal' button to open a new proposal creation interface.
+Click on the 'New Proposal' button to open a new proposal creation interface.
 
 ![](https://hackmd.io/_uploads/HkvHytqXh.png)
 
