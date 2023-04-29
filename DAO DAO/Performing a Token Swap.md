@@ -39,7 +39,6 @@ Select the token and amount you would like to receive from the counterparty, as 
 
 **Step 8: Create the token swap contract. Submit, approve, and execute the proposal**\
 Click 'Create' and approve the transcation to create the vesting contract.
-
 ![](https://hackmd.io/_uploads/HJj-lF573.png)
 
 ![](https://hackmd.io/_uploads/rJ8GeF5Q2.png)
@@ -65,7 +64,6 @@ Click on the 'Transaction Builder' button.
 
 **Step 12: Access Token Swap Action**\
 Click 'Add an action'
-
 ![](https://hackmd.io/_uploads/Sk_nlFqQn.png)
 
 In the Actions Category select 'Wallet'
@@ -73,7 +71,6 @@ In the Actions Category select 'Wallet'
 ![](https://hackmd.io/_uploads/rJWpgY5Qn.png)
 
 Select 'Token Swap'
-
 ![](https://hackmd.io/_uploads/H1YTlF5X3.png)
 
 
