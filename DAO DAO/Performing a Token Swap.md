@@ -45,7 +45,7 @@ Click 'Create' and approve the transcation to create the vesting contract.
 ![](https://hackmd.io/_uploads/rJ8GeF5Q2.png)
 
 
-Submit Proposal' to finalize the token swap details. After the proposal is approved by DAO members, execute the proposal. You have now created and funded your half of the token swap!
+Submit the proposal to finalize the token swap details. After the proposal is approved by DAO members, execute the proposal. You have now created and funded your half of the token swap!
 
 ![](https://hackmd.io/_uploads/ryWDxK5m3.png)
 
@@ -53,7 +53,7 @@ Submit Proposal' to finalize the token swap details. After the proposal is appro
 **Step 9: Share the contract address with the counterparty**\
 Copy the contract address generated for the token swap and share it with the counterparty.
 
-***As the counterparty***\
+***As the counterparty***
 
 **Step 10: Go to the "me" page on DAO DAO**\
 Navigate to the "me" page on the DAO DAO platform. https://daodao.zone/me
@@ -91,3 +91,11 @@ Review the Token Swap Contract, ensure it is correct and click click 'Execute' a
 The Token swap is now complete!
 
 ![](https://hackmd.io/_uploads/r1VTZtcQ2.png)
+
+If you need to cancel a token swap, you can use the "Withdraw Token Swap" action
+
+![](https://hackmd.io/_uploads/S10-EY97h.png)
+
+Paste the contract address and execute! The tokens will be returned.
+
+![](https://hackmd.io/_uploads/r15X4F5Qn.png)
